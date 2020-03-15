@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="508d81a6-dadf-4f19-8794-bbe5209418ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CatVsDog" />
+  </component>
+  <component name="ProjectId" id="1Z1Ere4ZBdSrex70gFjYXRM526V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="508d81a6-dadf-4f19-8794-bbe5209418ac" name="Default Changelist" comment="" />
+      <created>1583998399381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583998399381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="147" key="SettingsEditor" timestamp="1583999269045">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/0.23.1680.970@0.23.1680.970" timestamp="1583999269045" />
+    <state x="588" y="220" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1583998835488">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="588" y="220" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.23.1680.970@0.23.1680.970" timestamp="1583998835488" />
+    <state x="517" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1583998406011">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="517" y="340" key="com.intellij.ide.util.TipDialog/0.23.1680.970@0.23.1680.970" timestamp="1583998406011" />
+  </component>
+</project>
